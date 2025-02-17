@@ -2,7 +2,7 @@
 
 🚨 **Important AWS Update: SageMaker Studio Classic is no longer maintained as of January 1st, 2025!** 🚨
 
-As part of the transition to the new **SageMaker Studio with Jupyter 4**, AWS is urging users to migrate their notebooks for enhanced features. For those facing issues with the official AWS tutorial, fear not! Today, I'm sharing **two easy-to-use scripts** to help you with **backup and sync** processes for your notebooks in the new environment.
+As part of the transition to the new **SageMaker Studio with Jupyter 4**, AWS is urging users to migrate their notebooks for enhanced features. For those facing issues with the official AWS tutorial, fear not! Today, I'm sharing **3 easy-to-use scripts** to help you with **backup and sync** processes for your notebooks in the new environment.
 
 ---
 
